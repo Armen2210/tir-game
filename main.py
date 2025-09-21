@@ -37,4 +37,3 @@ while running:
     pygame.display.update()
 
 pygame.quit()
-#тесст, удалить
